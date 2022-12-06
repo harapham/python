@@ -235,6 +235,7 @@ print(a.partition('he'))
 print(a.rpartition('he'))
             #các phương thức tiện ích
 #phương thức count
+a='harapham hee hee hoho'
 print(a.count('he'))
 print(a.count('h',5,7))
 #phương thức startswith : tìm xem chuỗi có bắt đầu bằng các ký tự cho sẵn ko
